@@ -26,7 +26,7 @@
     | Google Meet|:computer: |
     | ... |... |
 
-6. ¿Qué es <HTML>?
+6. ¿Qué es ``HTML``?
 
     Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 
@@ -37,7 +37,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+    <title>Document</title>
   </head>
   <body>
     
@@ -45,7 +45,7 @@
   </html>
 ````
 
-7. ¿Qué es <CSS>?
+7. ¿Qué es ```CSS```?
 
    CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
    elementos HTML deberían ser mostrados.
