@@ -1,10 +1,17 @@
 1.¿Qué es una página web?
 
+Es un onjunto de información que se encuentra en una dirección determinada de internet.
+
 2.¿Qué es un sitio web?
+
+Es un espacio virtual que contiene toda la información que una persona o empresa quiere difundir a través de internet.
 
 3.¿Qué es una aplicación web?
 
+Las aplicaciones web son programas informáticos que se ejecutan en un servidor web.
+
 4.¿Qué es una herramienta ofimática?
+
 Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
 presentación
 
@@ -20,7 +27,9 @@ presentación
 | ... |... |
 
 6.¿Qué es HTML
+
 Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
+
 ````html
 <!DOCTYPE html>
 <html lang="en">
@@ -36,8 +45,10 @@ Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 ````
 
 7.¿Qué es CSS?
+
 CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
 elementos HTML deberían ser mostrados.
 
 8.Flujo de trabajo (navegador, petición, servidor y respuesta):
-![Flujo](
+
+![Flujo](Cosapaponer.png)
