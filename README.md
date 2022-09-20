@@ -52,4 +52,4 @@
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-![Flujo](Cosapaponer.png)
+      ![Flujo](Cosapaponer.png)
