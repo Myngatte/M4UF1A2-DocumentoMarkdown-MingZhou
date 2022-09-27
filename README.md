@@ -1,6 +1,6 @@
 1. ¿Qué es una página web?
     
-    Es un onjunto de información que se encuentra en una dirección determinada de internet.
+    Es un conjunto de información que se encuentra en una dirección determinada de internet.
 
 2. ¿Qué es un sitio web?
 
